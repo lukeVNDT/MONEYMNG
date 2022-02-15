@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qlthuchi", "qlthuchi\qlthuchi.csproj", "{C5AF4CA3-178D-4C68-988A-8087D2587BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5AF4CA3-178D-4C68-988A-8087D2587BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AF4CA3-178D-4C68-988A-8087D2587BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AF4CA3-178D-4C68-988A-8087D2587BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AF4CA3-178D-4C68-988A-8087D2587BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {229A756F-A52D-4E04-B342-04E8B1CF52D5}
+	EndGlobalSection
+EndGlobal
